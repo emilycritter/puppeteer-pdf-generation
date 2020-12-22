@@ -1,0 +1,9 @@
+*.log
+/license.txt
+/readme.html
+.DS_Store
+**/.DS_Store
+.idea/*
+.vscode/*
+*.zip
+node_modules/*
