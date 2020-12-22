@@ -1,8 +1,11 @@
 # Example PDF Generation (using Google's Puppeteer)
-1. To install the node modules, run:  `npm install`
+1. To install the puppeteer node module, run:  `npm i puppeteer`
 1. To generate a PDF, run `node generatePDF.js`
-  - saves the PDF (test.pdf) to the root directory
+   - saves the PDF (test.pdf) to the root directory
 
+## Local Development
+* Node v13.x.x
+* NPM v6.x.x
 
 ## Puppeteer Documentation
 - https://developers.google.com/web/tools/puppeteer/
