@@ -7,3 +7,4 @@
 .vscode/*
 *.zip
 node_modules/*
+test.pdf
